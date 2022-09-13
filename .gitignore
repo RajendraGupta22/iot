@@ -1,2 +1,6 @@
 venv
 .gittoken
+*.vscode
+*.vscode/*
+
+*.pyc
