@@ -27,7 +27,7 @@ schema_view = get_schema_view(
     openapi.Info(
         title="Rajendra IOT",
         default_version='v0.1',
-        description="usae description",
+        description="API description",
         terms_of_service="",
         contact=openapi.Contact(email="raj.shadow.gupta@gmail.com"),
     ),
