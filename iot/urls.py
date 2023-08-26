@@ -29,7 +29,7 @@ schema_view = get_schema_view(
         default_version='v0.1',
         description="API description",
         terms_of_service="",
-        contact=openapi.Contact(email="raj.shadow.gupta@gmail.com"),
+        contact=openapi.Contact(email=""),
     ),
     public=True,
     permission_classes=(permissions.AllowAny,),
