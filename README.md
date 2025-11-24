@@ -13,8 +13,8 @@
 6. python manage.py runserver
 
 # Admin Login Creds :
-1. username = admin
-2. password = admin
+1. username = ***
+2. password = ***
 
 # Urls to access :
 1. /admin/ : to access django admin
